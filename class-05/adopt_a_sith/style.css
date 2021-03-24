@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+}
+
+li {
+    border: solid black 1px;
+    display: inline;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    margin: 5px 50px 0px 50px;
+}
+
+header {
+    text-align: center;
+
+}
+
+h1, #top_p{
+    color: red;
+}
+
+nav {
+    background-color: yellow;
+}
+
+section {
+    border: solid black 2px;
+}
+
+p {
+    color: cyan;
+    background-color: darkkhaki;
+}
+
+#top_section {
+    text-align: center;
+}
+
+#hero {
+    width: 90%;
+}
